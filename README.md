@@ -8,3 +8,4 @@ Pass in the path to a subscription_manager xml file as a first argument and (opt
 ```
 
 You can get a subscription_manager xml file from https://www.youtube.com/subscription_manager?action_takeout=1
+(Or get to https://www.youtube.com/subscription_manager, scroll to the bottom of the page and download by clicking on __Export Subsctiptions__)
